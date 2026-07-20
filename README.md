@@ -127,7 +127,7 @@ Key insights from the analysis:
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/abc123766/customer-behavior-analysis.git
+git clone https://github.com/t-aisha/customer-behavior-analysis.git
 cd customer-behavior-analysis
 ```
 
